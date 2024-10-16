@@ -106,5 +106,15 @@
     /* Completeness */
     // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
-  }
+  },
+  "exclude": [
+    "node_modules" // would be the default
+  ],
+  // "include": [
+  //   "app.ts",
+  //   "analytics.ts"
+  // ]
+  // "files": [
+  //   "app.ts"
+  // ]
 }
