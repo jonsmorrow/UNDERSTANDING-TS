@@ -1,1 +1,11 @@
-console.log('Time to get started...');
+class Department {
+    name: string;
+
+    constructor(n: string) {
+        this.name = n;
+    }
+}
+
+const accounting = new Department("Accounting");
+
+console.log(accounting);
