@@ -40,3 +40,10 @@ console.log(countAndDescribe('Hi There!'));
 console.log(countAndDescribe(['Flying', 'Sailing', 'Scuba']));
 console.log(countAndDescribe([]));
 // console.log(countAndDescribe(45));
+
+
+function extractAndConvert<T extends object, U extends keyof T>(obj: T, key: U) {
+    return 'Value: ' + obj[key];
+}
+
+extractAndConvert({name: 'Jon'}, 'name');
