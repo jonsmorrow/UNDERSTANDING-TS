@@ -53,7 +53,11 @@ function Log2(target: any, name: string, descriptor: PropertyDescriptor) {
     console.log(descriptor);
 }
 
-function Log3(target: any, name: string, descriptor: PropertyDescriptor) {
+function Log3(
+    target: any, 
+    name: string, 
+    descriptor: PropertyDescriptor
+) {
     console.log('Method decorator!');
     console.log(target);
     console.log(name);
