@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome Section 1",
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceFolder}/Section 1 - Getting Started"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome Section 2",
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceFolder}/Section 2 - TypeScript Basics & Basic Types"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome Section 3",
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceFolder}/Section 3 - The TypeScript Compiler (and its Configuration)"
+        },
+    ]
+}
