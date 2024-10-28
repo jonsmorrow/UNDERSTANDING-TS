@@ -31,6 +31,13 @@
             "name": "Launch Chrome Section 4",
             "url": "http://localhost:3000",
             "webRoot": "${workspaceFolder}/Section 4 - Next-generation JavaScript & TypeScript"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome Section 5",
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceFolder}/Section 5 - Classes & Interfaces"
         }
     ]
 }
