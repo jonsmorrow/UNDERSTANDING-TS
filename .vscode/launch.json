@@ -25,5 +25,12 @@
             "url": "http://localhost:3000",
             "webRoot": "${workspaceFolder}/Section 3 - The TypeScript Compiler (and its Configuration)"
         },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome Section 4",
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceFolder}/Section 4 - Next-generation JavaScript & TypeScript"
+        }
     ]
 }

@@ -6,3 +6,4 @@ Each section is completed in a branch and each exercise's final state is tagged.
 * [Section 1 - Getting Started](Section%201%20-%20Getting%20Started) on branch: [01-getting-started](https://github.com/jonsmorrow/UNDERSTANDING-TS/tree/01-getting-started)
 * [Section 2 - TypeScript Basics & Basic Types](Section%202%20-%20TypeScript%20Basics%20%26%20Basic%20Types) on branch: [02-basics](https://github.com/jonsmorrow/UNDERSTANDING-TS/tree/02-basics)
 * [Section 3: The TypeScript Compiler (and its Configuration)](Section%203%20-%20The%20TypeScript%20Compiler%20(and%20its%20Configuration)) on branch: [03-compiler-config](https://github.com/jonsmorrow/UNDERSTANDING-TS/tree/03-compiler-config)
+* [Section 4 - Next-generation JavaScript & TypeScript](Section%204%20-%20Next-generation%20JavaScript%20%26%20TypeScript) on branch: [04-next-gen](https://github.com/jonsmorrow/UNDERSTANDING-TS/tree/04-next-gen)
