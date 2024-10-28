@@ -45,6 +45,13 @@
             "name": "Launch Chrome Section 6",
             "url": "http://localhost:3000",
             "webRoot": "${workspaceFolder}/Section 6 - Advanced Types"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome Section 7",
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceFolder}/Section 7 - Generics"
         }
     ]
 }

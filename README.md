@@ -9,3 +9,4 @@ Each section is completed in a branch and each exercise's final state is tagged.
 * [Section 4 - Next-generation JavaScript & TypeScript](Section%204%20-%20Next-generation%20JavaScript%20%26%20TypeScript) on branch: [04-next-gen](https://github.com/jonsmorrow/UNDERSTANDING-TS/tree/04-next-gen)
 * [Section 5 - Classes & Interfaces](Section%205%20-%20Classes%20%26%20Interfaces) on branch: [05-cl-interfaces](https://github.com/jonsmorrow/UNDERSTANDING-TS/tree/05-cl-interfaces)
 * [Section 6 - Advanced Types](Section%206%20-%20Advanced%20Types) on branch: [06-advanced-types](https://github.com/jonsmorrow/UNDERSTANDING-TS/tree/06-advanced-types)
+* [Section 7 - Generics](Section%207%20-%20Generics) on branch: [07-generics](https://github.com/jonsmorrow/UNDERSTANDING-TS/tree/07-generics)
