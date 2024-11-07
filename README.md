@@ -12,3 +12,4 @@ Each section is completed in a branch and each exercise's final state is tagged.
 * [Section 7 - Generics](Section%207%20-%20Generics) on branch: [07-generics](https://github.com/jonsmorrow/UNDERSTANDING-TS/tree/07-generics)
 * [Section 8 - Decorators](Section%208%20-%20Decorators) on branch: [08-decorators](https://github.com/jonsmorrow/UNDERSTANDING-TS/tree/08-decorators)
 * [Section 9 - Drag & Drop Project](Section%209%20-%20Drag%20&%20Drop%20Project) on branch: [09-project-01-drag-and-drop](https://github.com/jonsmorrow/UNDERSTANDING-TS/tree/09-project-01-drag-and-drop)
+* [Section 10 - Modules & Namespaces](Section%2010%20-%20Modules%20&%20Namespaces) on branch: [10-modules-and-namespaces](https://github.com/jonsmorrow/UNDERSTANDING-TS/tree/10-modules-and-namespaces)

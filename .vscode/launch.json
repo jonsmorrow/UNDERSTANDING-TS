@@ -66,6 +66,13 @@
             "name": "Launch Chrome Section 9",
             "url": "http://localhost:3000",
             "webRoot": "${workspaceFolder}/Section 9 - Drag & Drop Project"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome Section 10",
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceFolder}/Section 10 - Modules & Namespaces"
         }
     ]
 }
