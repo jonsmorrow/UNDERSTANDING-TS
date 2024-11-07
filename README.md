@@ -13,3 +13,4 @@ Each section is completed in a branch and each exercise's final state is tagged.
 * [Section 8 - Decorators](Section%208%20-%20Decorators) on branch: [08-decorators](https://github.com/jonsmorrow/UNDERSTANDING-TS/tree/08-decorators)
 * [Section 9 - Drag & Drop Project](Section%209%20-%20Drag%20&%20Drop%20Project) on branch: [09-project-01-drag-and-drop](https://github.com/jonsmorrow/UNDERSTANDING-TS/tree/09-project-01-drag-and-drop)
 * [Section 10 - Modules & Namespaces](Section%2010%20-%20Modules%20&%20Namespaces) on branch: [10-modules-and-namespaces](https://github.com/jonsmorrow/UNDERSTANDING-TS/tree/10-modules-and-namespaces)
+* [Section 11 - Using Webpack with TypeScript](Section%2011%20-%20Using%20Webpack%20with%20TypeScript) on branch: [11-using-webpack-with-typescript](https://github.com/jonsmorrow/UNDERSTANDING-TS/tree/11-using-webpack-with-typescript)

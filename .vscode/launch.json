@@ -73,6 +73,13 @@
             "name": "Launch Chrome Section 10",
             "url": "http://localhost:3000",
             "webRoot": "${workspaceFolder}/Section 10 - Modules & Namespaces"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome Section 11",
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceFolder}/Section 11 - Using Webpack with TypeScript"
         }
     ]
 }
