@@ -59,6 +59,13 @@
             "name": "Launch Chrome Section 8",
             "url": "http://localhost:3000",
             "webRoot": "${workspaceFolder}/Section 8 - Decorators"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome Section 9",
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceFolder}/Section 9 - Drag & Drop Project"
         }
     ]
 }
