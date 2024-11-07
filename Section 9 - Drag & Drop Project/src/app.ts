@@ -21,6 +21,12 @@ abstract class State<T> {
     addListener(listenerFn: Listener<T>) {
         this.listeners.push(listenerFn);
     }
+
+    protected updateListeners(items: T[]) {
+        for (const listenerFn of this.listeners) {
+            listenerFn(items);
+        }
+    }
 }
 
 class ProjectState extends State<Project> {
@@ -48,13 +54,7 @@ class ProjectState extends State<Project> {
             ProjectStatus.Active
         )
         this.projects.push(newProject);
-        this.updateListeners();
-    }
-
-    private updateListeners() {
-        for (const listenerFn of this.listeners) {
-            listenerFn(this.projects.slice());
-        }
+        this.updateListeners(this.projects);
     }
 }
 
