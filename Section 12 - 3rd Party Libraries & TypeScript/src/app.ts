@@ -1,3 +1,23 @@
-import _ from 'lodash';
+import 'reflect-metadata';
+// import { plainToClass } from 'class-transformer'; // Deprecated
+import { plainToInstance } from 'class-transformer';
 
-console.log(_.shuffle([1,2,3]));
+import { Product } from './product.model';
+
+const products = [
+    { title: 'A Carpet', price: 29.99 },
+    { title: 'A Book', price: 10.99 }
+]
+
+// const p1 = new Product('A Book', 12.99);
+
+// const loadedProducts = products.map(prod => {
+//     return new Product(prod.title, prod.price);
+// })
+
+// const loadedProducts = plainToClass(Product, products); // Deprecated
+const loadedProducts = plainToInstance(Product, products);
+
+for (const prod of loadedProducts) {
+    console.log(prod.getInformation());
+}
