@@ -1,0 +1,23 @@
+{
+  "name": "understanding-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "author": "Jon Morrow",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/googlemaps": "^3.43.3",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.6.3",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.1.0"
+  },
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
