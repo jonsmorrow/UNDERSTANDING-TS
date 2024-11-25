@@ -94,6 +94,13 @@
             "name": "Launch Chrome Section 13",
             "url": "http://localhost:3000",
             "webRoot": "${workspaceFolder}/Section 13 - Time to Practice Let's build a \"Select & Share a Place\" App"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome Section 14",
+            "url": "http://localhost:3000",
+            "webRoot": "${workspaceFolder}/Section 14 - React.js & TypeScript/react-typescript"
         }
     ]
 }
